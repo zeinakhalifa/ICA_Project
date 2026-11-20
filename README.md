@@ -148,5 +148,3 @@ Acceptance criteria:
 
 What makes Campus swap different?
 A Feature That Makes Campus Swap Different Swap Without Spending: In addition to selling items for money, students can offer an item in exchange for another item. For example, one student could offer a statistics textbook in exchange for another student's scientific calculator. Students can send and accept swap requests through the app
-<img width="468" height="637" alt="image" src="https://github.com/user-attachments/assets/18ea64cc-c9d7-456d-a99b-54b8271c9c29" />
-# ICA_Project
